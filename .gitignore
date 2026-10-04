@@ -1,0 +1,38 @@
+# ==========================================
+# Jupyter Notebooks & Data Science Artifacts
+# ==========================================
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+.virtual_documents/
+.ipython/
+profile_default/
+ipython_config.py
+
+# ==========================================
+# Python Virtual Environments
+# ==========================================
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+pyvenv.cfg
+
+# ==========================================
+# Python Byte-compiled & Cache files
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.mypy_cache/
+
+# ==========================================
+# Environment Variables & Secrets
+# ==========================================
+.env
+.envrc
+
+*.zip
